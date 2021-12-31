@@ -632,11 +632,11 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(18, 18, 18, 0.5);
+  /*background: rgba(18, 18, 18, 0.5);*/
 }
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(18, 18, 18, 0.5);
+  /*background: rgba(18, 18, 18, 0.5);*/
   position: absolute;
   left: 30px;
   right: 30px;
