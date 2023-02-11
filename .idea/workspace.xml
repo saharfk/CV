@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1747c7-3b78-4718-877d-618502613bf2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
+            <state relative-caret-position="158">
+              <caret line="588" column="63" selection-start-line="588" selection-start-column="63" selection-end-line="588" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -26,8 +25,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Computational Intelligence</find>
-      <find>Computational IntelligenceTestimonials</find>
       <find>Testimonials</find>
       <find>interest</find>
       <find>sevices</find>
@@ -56,6 +53,8 @@
       <find>Sep</find>
       <find>val</find>
       <find>resume</find>
+      <find>sahar</find>
+      <find>others</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="314" />
     <option name="y" value="-12" />
     <option name="width" value="697" />
@@ -82,73 +81,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="glightbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="glightbox" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="glightbox" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="glightbox" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="glightbox.js" type="620a8d5e:NestingTreeNode" />
+              <item name="CV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,18 +134,19 @@
       <workItem from="1644748753050" duration="116000" />
       <workItem from="1650368373979" duration="594000" />
       <workItem from="1650527155395" duration="2139000" />
+      <workItem from="1676114383072" duration="2387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43115000" />
+    <option name="totallyTimeSpent" value="45502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20801815" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21104388" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -269,8 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
+        <state relative-caret-position="158">
+          <caret line="588" column="63" selection-start-line="588" selection-start-column="63" selection-end-line="588" selection-end-column="63" />
         </state>
       </provider>
     </entry>
